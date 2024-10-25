@@ -368,10 +368,10 @@
   resolved "https://registry.npmjs.org/@remix-run/router/-/router-1.20.0.tgz"
   integrity sha512-mUnk8rPJBI9loFDZ+YzPGdeniYK+FTmRD1TMCz7ev2SNIozyKKpnGgsxO34u6Z4z/t0ITuu7voi/AshfsGsgFg==
 
-"@remixicon/react@^4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@remixicon/react/-/react-4.3.0.tgz"
-  integrity sha512-mAVDn8pAa9dURltGwiYrf7bPIqjG4ZAnCUHfjpgz3g+HLSDNXOaJ67Z5wmjVB5KMGpp9JbbTN5vsp2z+ajVLWg==
+"@remixicon/react@^4.4.0":
+  version "4.4.0"
+  resolved "https://registry.npmjs.org/@remixicon/react/-/react-4.4.0.tgz"
+  integrity sha512-f1N61WiAZZZckaC8/dzQTIQBfpPbDIpAlUR8x2Q/g9AQT0/sMxeqqGrxh4VrTrimCD6pfret0++2CRI+pahldA==
 
 "@restart/hooks@^0.4.9":
   version "0.4.16"

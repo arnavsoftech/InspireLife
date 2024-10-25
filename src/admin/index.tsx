@@ -1,8 +1,8 @@
 import { useContext, useEffect } from "react";
 import { Link, Outlet, useLocation, useNavigate } from "react-router-dom";
 import UserContext from "../config/Usercontext";
-import Sidebar from "../components/Sidebar";
-import AdminSidebar from "./components/AdminSidebar";
+// import Sidebar from "../components/Sidebar";
+import Sidebar from "./components/common/AdminSidebar";
 
 function AdminDashboard() {
   const { login } = useContext(UserContext);
@@ -18,7 +18,7 @@ function AdminDashboard() {
   return (
     <>
       <div id="wrapper">
-        <AdminSidebar />
+        <Sidebar />
         <div id="content-wrapper" className="d-flex flex-column">
           <div className="bg-primary p-3 d-flex justify-content-between align-items-center text-white">
             <div>

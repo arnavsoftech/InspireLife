@@ -1,5 +1,5 @@
 {
-  "name": "easyloan",
+  "name": "inspireLife",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@remixicon/react": "^4.3.0",
+    "@remixicon/react": "^4.4.0",
     "axios": "^1.6.8",
     "bootstrap": "^5.3.3",
     "react": "^18.2.0",
